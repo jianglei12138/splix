@@ -84,4 +84,4 @@ And suportted  printers,
 
 ####Attention!
 
-Splix needs libjbig, you could found in my [resposity](https://github.com/jianglei12138/splix).
+Splix needs libjbig, you could found in my [resposity](https://github.com/jianglei12138/jbigkit).
