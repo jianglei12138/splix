@@ -1,6 +1,6 @@
 #splix
 
-SpliX is a set of CUPS printer drivers for SPL (Samsung Printer Language) printers. If you have such a printer, you need to download and use SpliX. Moreover you will find documentation about this proprietary language.
+Splix is a set of CUPS printer drivers for SPL (Samsung Printer Language) printers. If you have such a printer, you need to download and use SpliX. Moreover you will find documentation about this proprietary language.
 
 And suportted  printers,
 
@@ -85,3 +85,7 @@ And suportted  printers,
 ####Attention!
 
 Splix needs libjbig, you could found in my [resposity](https://github.com/jianglei12138/jbigkit).
+
+#### Compile
+
+To cross compile, you should set cross-compile toolchain in $PATH.
